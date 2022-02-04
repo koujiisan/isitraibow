@@ -8,3 +8,9 @@
 
 ## Archirecture
 ### This page consists of HTML, CSS and Javascript.
+
+## How to use this page.
+### If you want to learn more about the rainbow, press the button in the middle and press the light blue letters.
+### Choose your favorite country!
+
+### Finally, thank you to everyone in the footer.
