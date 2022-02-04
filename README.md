@@ -15,3 +15,6 @@
 ### If you're worried about the movement of the flag, take a look at the CSS code.
 
 #### Finally, thank you to everyone in the footer.
+
+#### Added supplement
+##### The rainbow images on this page use Adobe Creative Cloud Express.　If you are interested, please check it.
