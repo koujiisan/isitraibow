@@ -16,5 +16,5 @@
 
 #### Finally, thank you to everyone in the footer.
 
-#### Added supplement
+#### ★Added supplement★
 ##### The rainbow images on this page use Adobe Creative Cloud Express.　If you are interested, please check it.
