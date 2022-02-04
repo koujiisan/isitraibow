@@ -12,5 +12,6 @@
 ## How to use this page.
 ### If you want to learn more about the rainbow, press the button in the middle and press the light blue letters.
 ### Choose your favorite country!
+### If you're worried about the movement of the flag, take a look at the CSS code.
 
-### Finally, thank you to everyone in the footer.
+#### Finally, thank you to everyone in the footer.
